@@ -44,6 +44,8 @@ This application is built with a modern, robust tech stack:
 *   **Development Tools**:
     *   **ESLint & Prettier**: For code linting and formatting (configuration implied).
 
+*   **Deployment**:The application is running under production in vercel
+
 ## Getting Started
 
 This project is a starter application in Firebase Studio.
@@ -81,4 +83,3 @@ This project is a starter application in Firebase Studio.
     *   Companies can (mock) invite students for interviews or mentorship.
 6.  **AI Opportunities**: Students can use the AI feature to get tailored suggestions based on their input.
 
-This README provides a high-level overview. Dive into the code to explore the specific implementations!
